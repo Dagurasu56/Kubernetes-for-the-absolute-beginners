@@ -22,9 +22,9 @@
 ---
 ## ⚙️ Activities
   
-- [ ] Gain basic understanding of Kubernetes Fundamentals
-- [ ] Develop Kubernetes Configuration Files in YAML
-- [ ] Deploy Kubernetes Cluster on local systems
+- [x] Gain basic understanding of Kubernetes Fundamentals
+- [x] Develop Kubernetes Configuration Files in YAML
+- [x] Deploy Kubernetes Cluster on local systems
 - [ ] Deploy Kubernetes on Cloud - Google Cloud Platform
 - [ ] Deploy Applications on Kubernetes
 - [ ] Setup ReplicaSets, Services and Deployments on Kubernetes
