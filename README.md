@@ -1,5 +1,5 @@
 <h4 align="center"> 
-    🚧 Kubernetes for the Absolute Beginners 🚀 Under construction... 🚧
+    🚧 Kubernetes for the Absolute Beginners 🚀 Complete 🚧
   </h4>
   <br>
   
@@ -25,9 +25,9 @@
 - [x] Gain basic understanding of Kubernetes Fundamentals
 - [x] Develop Kubernetes Configuration Files in YAML
 - [x] Deploy Kubernetes Cluster on local systems
-- [ ] Deploy Kubernetes on Cloud - Google Cloud Platform
-- [ ] Deploy Applications on Kubernetes
-- [ ] Setup ReplicaSets, Services and Deployments on Kubernetes
+- [x] Deploy Kubernetes on Cloud - Google Cloud Platform
+- [x] Deploy Applications on Kubernetes
+- [x] Setup ReplicaSets, Services and Deployments on Kubernetes
 
 ---
 ## 🦸 Author
